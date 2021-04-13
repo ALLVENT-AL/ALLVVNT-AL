@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ALLVVNT-AL
+- 👋 Hi, I’m Alfian 
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning develop applications with kotlin
 - 💞️ I’m looking to collaborate on ...
